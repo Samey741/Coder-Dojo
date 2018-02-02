@@ -1,0 +1,14 @@
+.table {background-color:green;}
+.table td {width:300px;
+  padding-left:30px;
+}
+.table th {width:300px;
+  padding-left:30px;
+}
+.priezvisko {
+  padding-left:40px !important;
+}
+.table {color:white;}
+.lead {text-align: justify;
+  font-size:17px;
+}

@@ -1,0 +1,143 @@
+/* Space out content a bit */
+body {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  background:white;
+  }
+.title {
+  color:black;
+  background-color:black;
+  
+}
+
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+/* Custom page header */
+.header {
+  padding-bottom: 1rem;
+  border-bottom: .05rem solid #157DEC;
+  margin-bottom: 16px;
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 3rem;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 1.5rem;
+  color: #777;
+  border-top: .05rem solid #e5e5e5;
+}
+
+/* Customize container */
+@media (min-width: 48em) {
+  .container {
+    max-width: 46rem;
+  }
+}
+.container-narrow > hr {
+  margin: 2rem 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: .05rem solid green;
+  background-color:green;
+  color:white;
+}
+.jumbotron .btn {
+  padding: .75rem 1.5rem;
+  font-size: 1.5rem;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 3rem 0;
+  color:black;
+}
+.marketing p + h4 {
+  margin-top: 1.5rem;
+}
+.footer{
+  color:b;
+}
+.mapa{width:100%;height:300px;
+  margin-top:20px;
+}
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 48em) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing{color:black;}
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+    color:white;
+  }
+  .mapa{
+    width:100%;height:300px;
+    margin-top:20px;
+  }
+
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 16px;
+    
+   
+  }
+
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+    color:white;
+   background:green;
+
+  }
+}
+.fotka1 {width:48%;
+  height:auto;
+  float:left;
+  margin-bottom:20px;
+  margin:2px;
+  
+ 
+}
+.fotka2{width:48%;
+  height:auto;
+   float:left;
+   margin-bottom:20px;
+    margin:2px;
+  
+}
+.fotka3{
+  width:48%;
+  height:auto;
+   float:left;
+   margin:2px;
+}
+
+ 
+ .fotka4{
+   width:48%;
+  height:auto;
+   margin:2px;
+ }
+ .text1{
+    text-align: justify;
+ }
+   
+ }
+
+ 
