@@ -1,7 +1,18 @@
 section {
 background-color:green;
+border-radius: 10px;
 }
-.nadpisjeden{color:white;}
-.textjedna{color:white;}
-a.textjedna:hover{color:white;}
-.header{margin-bottom:16px;}
+.nadpisjeden{
+	color: white;
+	text-align: center;
+}
+.textjedna{
+	color: white;
+    text-align: center;
+}
+a.textjedna:hover{
+	color:white;
+}
+.header{
+	margin-bottom: 16px;
+}

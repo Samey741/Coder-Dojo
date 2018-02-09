@@ -4,11 +4,15 @@
 }
 .table th {width:300px;
   padding-left:30px;
+
 }
 .priezvisko {
   padding-left:40px !important;
 }
-.table {color:white;}
+.table {
+	color:white;
+border-radius: 10px;
+}
 .lead {text-align: justify;
   font-size:17px;
 }

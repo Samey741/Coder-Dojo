@@ -9,10 +9,17 @@
 .{color:green;}
 
 .cdv{
-  margin-left:150px;
+ position: absolute;
   margin-bottom: 30px;
   margin-top:50px;
+  height: 82%;
+  width: 82%;
+  
 }
 .nadpis3{color:green;}
 .video{float: none;
     margin: 0 auto;}
+.footer{
+	position: absolute;
+	bottom: -50%;
+}
